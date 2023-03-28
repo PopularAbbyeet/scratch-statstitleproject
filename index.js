@@ -1,8 +1,8 @@
 ///// SET YOUR USERNAME, PASSWORD, AND PROJECT ID HERE /////////
 const info = {
     username: "Abigayle_ALT",
-    password: "moan",
-    projectId: "509531164"
+    password: "minecraft1ive",
+    projectId: "68158668"
 }
 //////////////////////////////////////////////////////////////
 
