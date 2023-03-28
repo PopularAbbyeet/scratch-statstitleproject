@@ -1,16 +1,4 @@
-///// SET YOUR USERNAME, PASSWORD, AND PROJECT ID HERE /////////
-const info = {
-    username: "Abigayle_ALT",
-    password: "minecraft1ive",
-    projectId: "68158668"
-}
-//////////////////////////////////////////////////////////////
-
-
-import Scratch from "scratch-api"
-
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
+///// SET Yt(resolve, ms));
 }
 
 function commafy(numStr) {
